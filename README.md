@@ -3,7 +3,17 @@
 
 - I am a Full Stack Developer from Malaysia.
 
-- I love learning new stack
+- I love learning new stacks and improving my current skills.
+
+
+
+
+
+## Get In Touch:
+- Github: https://github.com/naimbob95
+- Email: amirulnaim.ahmadnazri@gmail.com
+- Website: [amirulnaim.dev](https://www.amirulnaim.dev/)
+- LinkedIn: https://www.linkedin.com/in/amirul-naim-339a23b6/
 
 
 
@@ -21,6 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  
+  
+
  
  
   
