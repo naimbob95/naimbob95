@@ -5,6 +5,8 @@
 
 - I love learning new stacks and improving my current skills.
 
+- I am currently working as a web developer and using Laravel, VueJS, and MySQL as my daily tech stack, but I love to explore other new things when I have free time.
+
 
 
 
