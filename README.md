@@ -14,7 +14,7 @@
 ## Get In Touch:
 - Github: https://github.com/naimbob95
 - Email: amirulnaim.ahmadnazri@gmail.com
-- Website: [amirulnaim.dev](https://www.amirulnaim.dev/)
+- Website: [[naimbob95.github.io](https://naimbob95.github.io/)]
 - LinkedIn: https://www.linkedin.com/in/amirul-naim-339a23b6/
 
 
